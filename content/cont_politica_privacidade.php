@@ -14,7 +14,7 @@
         <nav>
             <div class="container">
                 <ol>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="<?php echo BASEURL ?>index.php">Home</a></li>
                     <li>Política de Privacidade</li>
                 </ol>
             </div>

@@ -5,7 +5,7 @@
         font-family: Arial;
         font-size: 1.5em;
         position: fixed;
-        bottom: 1em;
+        bottom: 1.2em;
         left: 1em;
         text-decoration: none;
         color: white;
@@ -18,6 +18,12 @@
     .go-top:hover {
         background-color: greenyellow;
         color: lavender;
+    }
+
+    @media only screen and (max-width: 580px) {
+        .go-top {
+            visibility: hidden;
+        }
     }
 </style>
 

@@ -6,7 +6,6 @@
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-6 text-center">
                         <h2>Serviços</h2>
-                        <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
                     </div>
                 </div>
             </div>
@@ -14,14 +13,14 @@
         <nav>
             <div class="container">
                 <ol>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="<?php echo BASEURL ?>index.php">Home</a></li>
                     <li>Serviços</li>
                 </ol>
             </div>
         </nav>
     </div>
 
-    
+
     <section id="featured-services" class="featured-services">
         <div class="container">
 
@@ -107,7 +106,7 @@
         </div>
     </section>
 
-    
+
     <section id="features" class="features">
         <div class="container">
 
@@ -184,7 +183,7 @@
         </div>
     </section>
 
-    
+
     <section id="testimonials" class="testimonials">
         <div class="container">
 
@@ -252,7 +251,7 @@
         </div>
     </section>
 
-    
+
     <section id="faq" class="faq">
         <div class="container" data-aos="fade-up">
 

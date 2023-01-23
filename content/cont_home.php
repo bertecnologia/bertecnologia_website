@@ -24,7 +24,7 @@
           <div class="col-lg-3 col-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Horas de Suporte</p>
+              <p>Hrs/Suporte</p>
             </div>
           </div>
 
@@ -54,30 +54,27 @@
       <div class="row gy-4">
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up">
-          <div class="icon flex-shrink-0"><i class="fa-solid fa-cart-flatbed"></i></div>
+          <div class="icon flex-shrink-0"><i class="bi bi-pip"></i></div>
           <div>
-            <h4 class="title">Serviço 01</h4>
+            <h4 class="title">Responsividade</h4>
             <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
 
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-          <div class="icon flex-shrink-0"><i class="fa-solid fa-truck"></i></div>
+          <div class="icon flex-shrink-0"><i class="bi bi-shield-check"></i></div>
           <div>
-            <h4 class="title">Serviço 02</h4>
+            <h4 class="title">Segurança</h4>
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-          <div class="icon flex-shrink-0"><i class="fa-solid fa-truck-ramp-box"></i></div>
+          <div class="icon flex-shrink-0"><i class="bi bi-phone-flip"></i></div>
           <div>
-            <h4 class="title">Serviço 03</h4>
+            <h4 class="title">Praticidade</h4>
             <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-            <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
 
@@ -278,55 +275,19 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/js-icone.svg" class="testimonial-img" alt="">
-              <h3>JavaScript</h3>
-              <h4>Linguagem de Programação</h4>
-              <p>JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.</p>
+              <img src="<?php echo BASEURL ?>img/ball-icone.svg" class="testimonial-img" alt="">
+              <h3>Ball Corporation</h3>
+              <h4>Embalagens Sustentáveis</h4>
+              <p>Ball Corporation, líder mundial em embalagens sustentáveis de alumínio.</p>
             </div>
           </div>
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/php-icone.svg" class="testimonial-img" alt="">
-              <h3>PHP</h3>
-              <h4>Linguagem de Programação</h4>
-              <p>PHP é uma linguagem de script de uso geral voltada para o desenvolvimento da web. Ele foi originalmente criado pelo programador dinamarquês-canadense Rasmus Lerdorf em 1993 e lançado em 1995. A implementação de referência do PHP agora é produzida pelo The PHP Group.</p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/html-icone.svg" class="testimonial-img" alt="">
-              <h3>HTML:5</h3>
-              <h4>Linguagem de Marcação</h4>
-              <p>HTML5 é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet, originalmente proposto por Opera Software. É a quinta versão da linguagem HTML.</p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/css-icone.svg" class="testimonial-img" alt="">
-              <h3>CSS 3</h3>
-              <h4>Linguagem de Estilização</h4>
-              <p>CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets, pela qual se define estilos para um projeto web. Com efeitos de transição, imagem, imagem de fundo/background e outros, pode-se criar estilos únicos para seus projetos web, alterando diversos aspectos de design no layout da página.</p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/bootstrap-icone.svg" class="testimonial-img" alt="">
-              <h3>Bootstrap</h3>
-              <h4>Responsividade e Estilização</h4>
-              <p>O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo. </p>
-            </div>
-          </div>
-
-          <div class="swiper-slide">
-            <div class="testimonial-item">
-              <img src="<?php echo BASEURL ?>img/mysql-icone.svg" class="testimonial-img" alt="">
-              <h3>MySQL</h3>
-              <h4>Banco de Dados</h4>
-              <p>O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo. </p>
+              <img src="<?php echo BASEURL ?>img/gr-icone.svg" class="testimonial-img" alt="">
+              <h3>Gente Resultado</h3>
+              <h4>Consultoria</h4>
+              <p> Fundada em Extrema/MG, a Consultoria Gente Resultado desenvolve projetos em empresas privadas e órgãos públicos de todo o Brasil, implementando metodologias e processos que geram resultados excelentes em velocidade competitiva de mercado.</p>
             </div>
           </div>
 
