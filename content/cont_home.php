@@ -174,99 +174,6 @@
   </section>
 
 
-  <section id="call-to-action" class="call-to-action">
-    <div class="container" data-aos="zoom-out">
-
-      <div class="row justify-content-center">
-        <div class="col-lg-8 text-center">
-          <h3>Alguma dúvida?</h3>
-          <p>A B&R Tecnologia está aqui para te ajudar, estudamos a sua necessidade e desenvolvemos a melhor solução para você e sua empresa!</p>
-          <a class="cta-btn" href="<?php echo BASEURL ?>app/contato.php">Contato</a>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-
-  <section id="features" class="features">
-    <div class="container">
-
-      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-
-        <div class="col-md-5">
-          <img src="assets/img/features-1.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-md-7">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-          <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <ul>
-            <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-            <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            <li><i class="bi bi-check"></i> Ullam est qui quos consequatur eos accusamus.</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-        <div class="col-md-5 order-1 order-md-2">
-          <img src="assets/img/features-2.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-md-7 order-2 order-md-1">
-          <h3>Corporis temporibus maiores provident</h3>
-          <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
-          </p>
-        </div>
-      </div>
-
-      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-        <div class="col-md-5">
-          <img src="assets/img/features-3.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-md-7">
-          <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
-          <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
-          <ul>
-            <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-            <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-        <div class="col-md-5 order-1 order-md-2">
-          <img src="assets/img/features-4.jpg" class="img-fluid" alt="">
-        </div>
-        <div class="col-md-7 order-2 order-md-1">
-          <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
-          <p class="fst-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
-          </p>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
-          </p>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-
-
   <section id="testimonials" class="testimonials">
     <div class="container">
 
@@ -291,6 +198,33 @@
             </div>
           </div>
 
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <img src="<?php echo BASEURL ?>img/revitale-icone.svg" class="testimonial-img" alt="">
+              <h3>Revitale</h3>
+              <h4>lorem</h4>
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque architecto voluptatum ad error ab illum explicabo, veniam dolore sapiente! Hic autem, numquam exercitationem quod illo beatae pariatur libero omnis eius..</p>
+
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <img src="<?php echo BASEURL ?>img/a3p-icone.svg" class="testimonial-img" alt="">
+              <h3>A3P Transporte</h3>
+              <h4>Transporte</h4>
+              <p>Localizada na cidade de Extrema / MG, a A3P Transporte e Turismo está entre as maiores empresas do ramo na região. Contando com uma equipe de profissionais altamente capacitados, frota com mais de 100 veículos e infraestrutura própria a A3P transporte e Turismo trabalha focada na qualidade e segurança para garantir a melhor prestação de serviço da região.</p>
+            </div>
+          </div>
+
+          <div class="swiper-slide">
+            <div class="testimonial-item">
+              <img src="<?php echo BASEURL ?>img/sanox-icone.png" class="testimonial-img" alt="">
+              <h3>Sanox</h3>
+              <h4>Tratamento de Água</h4>
+              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem nobis, eligendi officiis dicta quaerat, nemo omnis assumenda iusto et optio mollitia excepturi ea! Voluptas accusamus blanditiis sunt asperiores numquam dolorum?.</p>
+            </div>
+          </div>
         </div>
         <div class="swiper-pagination"></div>
       </div>
