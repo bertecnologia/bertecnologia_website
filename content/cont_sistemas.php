@@ -28,19 +28,19 @@
 
         <div class="col-lg-4">
           <div class="services-list">
-            <a href="#" class="active">Storage</a>
-            <a href="#">Logistics</a>
-            <a href="#">Cargo</a>
-            <a href="#">Trucking</a>
-            <a href="#">Packaging</a>
-            <a href="#">Warehousing</a>
+            <p>Identificar as Necessidades</p>
+            <p>Estudo do Processo</p>
+            <p>Elaboração do Escopo e Telas</p>
+            <p>Apresentação e Aprovação</p>
+            <p>Desenvolvimento do Sistema</p>
+            <p>Apresentação da Versão de Testes</p>
           </div>
         </div>
 
         <div class="col-lg-8">
           <img src="assets/img/service-details.jpg" alt="" class="img-fluid services-img">
           <h3>Desenvolvimento de Sistemas Personalizados</h3>
-          <p>
+          <p align="justify">
             A B&R oferece um serviço diferenciado composto pela avaliação da necessidade do cliente e desenvolvimento de uma solução personalizada com custo acessível. Trabalhando com as ferramentas mais modernas nas áreas de Mobile e Web a B&R Tecnologia tem o foco em atender a necessidade do cliente de forma ágil e eficiente. A nossa especialidade são sistemas focados para área de gestão e auxílio na tomada de decisão em ambientes empresariais, acadêmicos e comerciais.
           </p>
           <ul>

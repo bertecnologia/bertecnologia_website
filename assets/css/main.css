@@ -1639,7 +1639,7 @@ section {
   margin-bottom: 20px;
 }
 
-.service-details .services-list a {
+.service-details .services-list p {
   display: block;
   line-height: 1;
   padding: 8px 0 8px 15px;
@@ -1649,12 +1649,12 @@ section {
   transition: 0.3s;
 }
 
-.service-details .services-list a.active {
+.service-details .services-list p.active {
   font-weight: 700;
   border-color: var(--color-primary);
 }
 
-.service-details .services-list a:hover {
+.service-details .services-list p:hover {
   border-color: var(--color-primary);
 }
 

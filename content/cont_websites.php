@@ -29,12 +29,12 @@
 
         <div class="col-lg-4">
           <div class="services-list">
-            <a href="#" class="active">Storage</a>
-            <a href="#">Logistics</a>
-            <a href="#">Cargo</a>
-            <a href="#">Trucking</a>
-            <a href="#">Packaging</a>
-            <a href="#">Warehousing</a>
+            <p>Identificar a necessidade</p>
+            <p>Coleta de dados</p>
+            <p>Planjamento da estrutura</p>
+            <p>Desenvolvimento do Website</p>
+            <p>Apresentação e Aprovação</p>
+            <p>Instalação no domínio web</p>
           </div>
         </div>
 
@@ -45,9 +45,9 @@
             A B&R oferece uma gama de serviços na área de tecnologia, entre eles, desenvolvimento de Sistemas e Websites personalizados de acordo com a necessidade do cliente, este elaborado e preparado visando suportar quaisquer ampliações e/ou modificações futuras, como por exemplo, uma plataforma de e-commerce ou até mesmo um Sistema integrado WEB. Temos como foco a praticidade e fácil manuseio dos sites e sistemas, assim o operador terá rápido e fácil controle para atualização e inserção de novos conteúdos, dessa forma, podendo manter sempre o website atualizado, e assim, consequentemente, atrair novos clientes e tendo sempre o seu diferencial comercial e gerencial.
           </p>
           <ul>
-            <li><i class="bi bi-check-circle"></i> <span>Aut eum totam accusantium voluptatem.</span></li>
-            <li><i class="bi bi-check-circle"></i> <span>Assumenda et porro nisi nihil nesciunt voluptatibus.</span></li>
-            <li><i class="bi bi-check-circle"></i> <span>Ullamco laboris nisi ut aliquip ex ea</span></li>
+            <li><i class="bi bi-check-circle"></i> <span>Maior visibilidade na internet.</span></li>
+            <li><i class="bi bi-check-circle"></i> <span>Ambiente para captação de novos cliente.</span></li>
+            <li><i class="bi bi-check-circle"></i> <span>Profissionalismo e Identidade com um website totalmente customizável.</span></li>
           </ul>
         </div>
 
