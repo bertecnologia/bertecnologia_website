@@ -7,30 +7,30 @@
 
         <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="<?php echo $qtd_clientes ?>" data-purecounter-duration="1" class="purecounter"></span>
               <p>Clientes</p>
             </div>
           </div>
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="<?php echo $qtd_projetos ?>" data-purecounter-duration="1" class="purecounter"></span>
               <p>Projetos</p>
             </div>
           </div>
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hrs/Suporte</p>
+              <span data-purecounter-start="0" data-purecounter-end="<?php echo $horas_suporte ?>" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Horas de Suporte</p>
             </div>
           </div>
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
-              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="<?php echo $qtd_colaboradores ?>" data-purecounter-duration="1" class="purecounter"></span>
               <p>Colaboradores</p>
             </div>
           </div>
@@ -57,7 +57,7 @@
           <div class="icon flex-shrink-0"><i class="bi bi-pip"></i></div>
           <div>
             <h4 class="title">Responsividade</h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <p class="description">Pensando na responsividade dos Websites e Sistemas nos mais diversos aparelhos e tamanhos de telas, trabalhamos com diversas tecnologias focadas nesse propósito.</p>
           </div>
         </div>
 
@@ -66,7 +66,7 @@
           <div class="icon flex-shrink-0"><i class="bi bi-shield-check"></i></div>
           <div>
             <h4 class="title">Segurança</h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <p class="description">Desenvolvimento pensado em fornecer um excelente nível de segurança, buscando previnir riscos de segurança vindo de forma externa ou até pelos próprios usuários.</p>
           </div>
         </div>
 
@@ -74,7 +74,7 @@
           <div class="icon flex-shrink-0"><i class="bi bi-phone-flip"></i></div>
           <div>
             <h4 class="title">Praticidade</h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <p class="description">Quando seguros e responsivos, os Websites e Sistemas se tornam muito práticos para a utilização no dia a dia, trazendo agilidade e versatilidade.</p>
           </div>
         </div>
 
@@ -202,8 +202,8 @@
             <div class="testimonial-item">
               <img src="<?php echo BASEURL ?>img/revitale-icone.svg" class="testimonial-img" alt="">
               <h3>Revitale</h3>
-              <h4>lorem</h4>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque architecto voluptatum ad error ab illum explicabo, veniam dolore sapiente! Hic autem, numquam exercitationem quod illo beatae pariatur libero omnis eius..</p>
+              <h4>Gestão Ambiental e Segurança</h4>
+              <p>Consultoria especializada em serviços ambientais e segurança do trabalho. Atuação em atendimento a requisitos legais, eficiência em sistema de tratamento de efluentes, gestão de resíduos sólidos, ISO 14001, normas regulamentadoras, treinamentos entre todos os assuntos pertinentes à área ambiental e segurança do trabalho.</p>
 
             </div>
           </div>
@@ -222,7 +222,7 @@
               <img src="<?php echo BASEURL ?>img/sanox-icone.png" class="testimonial-img" alt="">
               <h3>Sanox</h3>
               <h4>Tratamento de Água</h4>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem nobis, eligendi officiis dicta quaerat, nemo omnis assumenda iusto et optio mollitia excepturi ea! Voluptas accusamus blanditiis sunt asperiores numquam dolorum?.</p>
+              <p> Com foco no desenvolvimento de processos para identificação de problemas, onde são analisados os pontos críticos voltados para uma gestão sustentável do tratamento de água e efluentes.</p>
             </div>
           </div>
         </div>

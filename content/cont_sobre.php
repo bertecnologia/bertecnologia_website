@@ -115,7 +115,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex">
                     <div class="member">
-                        <img src="<?php echo BASEURL ?>assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                        <img src="<?php echo BASEURL ?>img/p2.png" class="img-fluid" alt="">
                         <div class="member-content">
                             <h4>Rodrigo Otávio Rocha Cardoso</h4>
                             <span>Sócio Proprietário</span>
@@ -127,7 +127,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex">
                     <div class="member">
-                        <img src="<?php echo BASEURL ?>assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                        <img src="<?php echo BASEURL ?>img/p2.png" class="img-fluid" alt="">
                         <div class="member-content">
                             <h4>Bruno Gomes da Silva</h4>
                             <span>Sócio Proprietário</span>
@@ -139,15 +139,16 @@
 
                 <div class="col-lg-4 col-md-6 d-flex">
                     <div class="member">
-                        <img src="<?php echo BASEURL ?>assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                        <img src="<?php echo BASEURL ?>img/p3.png" class="img-fluid" alt="">
                         <div class="member-content">
                             <h4>Equipe de Desenvolvimento</h4>
                             <span>Full Stack Devs</span>
                             <p>
-                                Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
+                                Profissionais de <br> Análise e Desenvolvimento de Sistemas
                             </p>
                             <p align="justify">
-                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos magnam doloribus animi repellendus molestiae optio temporibus illum aliquid, distinctio nemo qui, explicabo dicta similique. Error id distinctio nemo perspiciatis deserunt.
+                                Uma equipe formada por profissionais do curso de Análise e Desenvolvimento de Sistemas da FAEX - Faculdade de Extrema, buscam aprimoramento profissional, pessoal e técnico diariamente. <br>
+                                Utilizando as mais diversas tecnologias disponíveis no mercado, atuam desenvolvendo os mais diversos projetos, principalmente voltados para a área de gestão e produção.
                             </p>
                         </div>
                     </div>
@@ -167,58 +168,49 @@
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/js-icone.svg" class="testimonial-img" alt="">
-                            <h3>JavaScript</h3>
-                            <h4>Linguagem de Programação</h4>
-                            <p>JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.</p>
+                            <img src="<?php echo BASEURL ?>img/ball-icone.svg" class="testimonial-img" alt="">
+                            <h3>Ball Corporation</h3>
+                            <h4>Embalagens Sustentáveis</h4>
+                            <p>Ball Corporation, líder mundial em embalagens sustentáveis de alumínio.</p>
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/php-icone.svg" class="testimonial-img" alt="">
-                            <h3>PHP</h3>
-                            <h4>Linguagem de Programação</h4>
-                            <p>PHP é uma linguagem de script de uso geral voltada para o desenvolvimento da web. Ele foi originalmente criado pelo programador dinamarquês-canadense Rasmus Lerdorf em 1993 e lançado em 1995. A implementação de referência do PHP agora é produzida pelo The PHP Group.</p>
+                            <img src="<?php echo BASEURL ?>img/gr-icone.svg" class="testimonial-img" alt="">
+                            <h3>Gente Resultado</h3>
+                            <h4>Consultoria</h4>
+                            <p> Fundada em Extrema/MG, a Consultoria Gente Resultado desenvolve projetos em empresas privadas e órgãos públicos de todo o Brasil, implementando metodologias e processos que geram resultados excelentes em velocidade competitiva de mercado.</p>
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/html-icone.svg" class="testimonial-img" alt="">
-                            <h3>HTML:5</h3>
-                            <h4>Linguagem de Marcação</h4>
-                            <p>HTML5 é uma linguagem de marcação para a World Wide Web e é uma tecnologia chave da Internet, originalmente proposto por Opera Software. É a quinta versão da linguagem HTML.</p>
+                            <img src="<?php echo BASEURL ?>img/revitale-icone.svg" class="testimonial-img" alt="">
+                            <h3>Revitale</h3>
+                            <h4>Gestão Ambiental e Segurança</h4>
+                            <p>Consultoria especializada em serviços ambientais e segurança do trabalho. Atuação em atendimento a requisitos legais, eficiência em sistema de tratamento de efluentes, gestão de resíduos sólidos, ISO 14001, normas regulamentadoras, treinamentos entre todos os assuntos pertinentes à área ambiental e segurança do trabalho.</p>
+
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/css-icone.svg" class="testimonial-img" alt="">
-                            <h3>CSS 3</h3>
-                            <h4>Linguagem de Estilização</h4>
-                            <p>CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets, pela qual se define estilos para um projeto web. Com efeitos de transição, imagem, imagem de fundo/background e outros, pode-se criar estilos únicos para seus projetos web, alterando diversos aspectos de design no layout da página.</p>
+                            <img src="<?php echo BASEURL ?>img/a3p-icone.svg" class="testimonial-img" alt="">
+                            <h3>A3P Transporte</h3>
+                            <h4>Transporte</h4>
+                            <p>Localizada na cidade de Extrema / MG, a A3P Transporte e Turismo está entre as maiores empresas do ramo na região. Contando com uma equipe de profissionais altamente capacitados, frota com mais de 100 veículos e infraestrutura própria a A3P transporte e Turismo trabalha focada na qualidade e segurança para garantir a melhor prestação de serviço da região.</p>
                         </div>
                     </div>
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/bootstrap-icone.svg" class="testimonial-img" alt="">
-                            <h3>Bootstrap</h3>
-                            <h4>Responsividade e Estilização</h4>
-                            <p>O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo. </p>
+                            <img src="<?php echo BASEURL ?>img/sanox-icone.png" class="testimonial-img" alt="">
+                            <h3>Sanox</h3>
+                            <h4>Tratamento de Água</h4>
+                            <p> Com foco no desenvolvimento de processos para identificação de problemas, onde são analisados os pontos críticos voltados para uma gestão sustentável do tratamento de água e efluentes.</p>
                         </div>
                     </div>
-
-                    <div class="swiper-slide">
-                        <div class="testimonial-item">
-                            <img src="<?php echo BASEURL ?>img/mysql-icone.svg" class="testimonial-img" alt="">
-                            <h3>MySQL</h3>
-                            <h4>Banco de Dados</h4>
-                            <p>O MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface. É atualmente um dos sistemas de gerenciamento de bancos de dados mais populares da Oracle Corporation, com mais de 10 milhões de instalações pelo mundo. </p>
-                        </div>
-                    </div>
-
                 </div>
                 <div class="swiper-pagination"></div>
             </div>

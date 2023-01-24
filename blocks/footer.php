@@ -21,12 +21,12 @@
             <div class="col-md-2 col-sm-1 col-xs-1 mb-2"></div>
 
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Services</h5>
+                <h5 class="heading">Páginas</h5>
                 <ul>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
+                    <li><a href="<?php echo BASEURL ?>">Home</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/sobre.php">Sobre</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/servicos.php">Serviços</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/contato.php">Contato</a></li>
                 </ul>
             </div>
 
@@ -34,21 +34,17 @@
             <div class="col-md-2 col-sm-4 col-xs-4">
                 <h5 class="heading">Serviços</h5>
                 <ul>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/sobre_sistemas.php">Desenvolvimento de <br> Sistemas</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/sobre_websites.php">Criação de Websites</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/sobre_suporte.php">Suporte em TI</a></li>
                 </ul>
             </div>
 
 
             <div class="col-md-2 col-sm-4 col-xs-4">
-                <h5 class="heading">Company</h5>
+                <h5 class="heading">Engenharia</h5>
                 <ul>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
-                    <li><a href="#">Banananana</a></li>
+                    <li><a href="https://engenhabr.com.br/">Conheça também nossos serviços na área de Engenharia, Treinamentos e Segurança do Trabalho.</a></li>
                 </ul>
             </div>
         </div>
