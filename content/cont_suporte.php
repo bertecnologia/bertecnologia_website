@@ -1,12 +1,11 @@
 <main id="main">
 
-
     <div class="breadcrumbs">
         <div class="page-header d-flex align-items-center" style="background-image: url('../img/suporte-bg.png');">
             <div class="container position-relative">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2>Suporte Terceirizado em TI e Tecnologia</h2>
+                        <h2 id="titulo">Suporte Terceirizado em TI e Tecnologia</h2>
                     </div>
                 </div>
             </div>
@@ -60,3 +59,11 @@
     </section>
 
 </main>
+
+<style>
+    @media only screen and (max-width: 480px) {
+        #titulo {
+            font-size: 30px;
+        }
+    }
+</style>

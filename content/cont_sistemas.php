@@ -5,7 +5,7 @@
             <div class="container position-relative">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2>Desenvolvimento de Sistemas</h2>
+                        <h2 id="titulo">Desenvolvimento de Sistemas</h2>
                     </div>
                 </div>
             </div>
@@ -60,3 +60,12 @@
     </section>
 
 </main>
+
+
+<style>
+    @media only screen and (max-width: 480px) {
+        #titulo {
+            font-size: 30px;
+        }
+    }
+</style>

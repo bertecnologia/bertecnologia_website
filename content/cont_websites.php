@@ -1,12 +1,11 @@
 <main id="main">
 
-
     <div class="breadcrumbs">
         <div class="page-header d-flex align-items-center" style="background-image: url('../img/web-bg.png');">
             <div class="container position-relative">
                 <div class="row d-flex justify-content-center">
                     <div class="col-lg-6 text-center">
-                        <h2>Desenvolvimento de Websites</h2>
+                        <h2 id="titulo">Desenvolvimento de Websites</h2>
                     </div>
                 </div>
             </div>
@@ -38,7 +37,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-8">
+                <div class="col-lg-12">
                     <h3>Desenvolvimento de Website Estruturado</h3>
                     <p>
                         A B&R oferece uma gama de serviços na área de tecnologia, entre eles, desenvolvimento de
@@ -65,3 +64,11 @@
     </section>
 
 </main>
+
+<style>
+    @media only screen and (max-width: 480px) {
+        #titulo {
+            font-size: 30px;
+        }
+    }
+</style>

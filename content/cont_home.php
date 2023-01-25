@@ -1,12 +1,12 @@
 <section id="hero" class="hero d-flex align-items-center">
-    <div class="container">
+    <div class="container" id="container-header">
         <div class="row gy-4 d-flex justify-content-between">
             <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
                 <h2 data-aos="fade-up">Desenvolvimento de Sistemas, Websites e Suporte Especializado</h2>
             </div>
 
             <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out">
-                <img src="<?php echo BASEURL ?>img/coding-gear.svg" class="img-fluid mb-3 mb-lg-0" alt="">
+                <img id="engrenagem" src="<?php echo BASEURL ?>img/coding-gear.svg" class="img-fluid mb-3 mb-lg-0" alt="">
             </div>
 
         </div>
@@ -242,8 +242,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-1">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     Como fazemos em relação a Hospedagem dos Projetos?
                                 </button>
@@ -259,8 +258,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     E a compra de Domínio?
                                 </button>
@@ -275,8 +273,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
                                 </button>
@@ -293,8 +290,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
                                 </button>
@@ -312,8 +308,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
                                 </button>
@@ -336,3 +331,16 @@
     </section>
 
 </main>
+
+
+<style>
+    @media only screen and (max-width: 480px) {
+        #engrenagem {
+            width: 50%;
+        }
+
+        #container-header {
+            text-align: center;
+        }
+    }
+</style>

@@ -10,7 +10,7 @@ require_once '../global_data.php';
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>B&R Tecnologia | Desenvolvimento de Sistemas</title>
+    <title>B&R Tecnologia | Sistemas</title>
 
     <link rel="icon" href="<?php echo BASEURL ?>img/icone-ber.svg">
 

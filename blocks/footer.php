@@ -1,4 +1,4 @@
-<div>
+<div id="box-footer">
 
     <div class="card col-md-12">
         <div class="row mb-4 ">
@@ -6,7 +6,7 @@
             <div class="col-md-4 col-sm-11 col-xs-11">
                 <div class="footer-text pull-left">
                     <div class="d-flex">
-                        <h1 style="color:#FFF; font-family: Poppins, sans-serif;">B&R Tecnologia</h1>
+                        <h1 id="bertitulo" style="color:#FFF; font-family: Poppins, sans-serif;">B&R Tecnologia</h1>
                     </div>
                     <p class="card-text">B&R SOLUCOES DE ENGENHARIA LTDA | CNPJ 29.614.550/0001-82 | Rua Dona Olivia, N° 165, CEP 37640-000 | Extrema - MG </p>
 
@@ -127,5 +127,22 @@
 
     .divider {
         border-top: 2px solid #0D42FF;
+    }
+
+    @media only screen and (max-width: 480px) {
+        #box-footer {
+            text-align: center;
+        }
+
+        #bertitulo {
+            margin: auto;
+            margin-bottom: 2%;
+        }
+
+        h5 {
+            margin-top: 5%;
+            margin-bottom: 1%;
+            border-bottom: 1px solid lightgray;
+        }
     }
 </style>
