@@ -213,8 +213,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-1">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-1">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     Como fazemos em relação a Hospedagem dos Projetos?
                                 </button>
@@ -230,8 +229,7 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-2">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-2">
                                     <i class="bi bi-question-circle question-icon"></i>
                                     E a compra de Domínio?
                                 </button>
@@ -246,54 +244,43 @@
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-3">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-3">
                                     <i class="bi bi-question-circle question-icon"></i>
-                                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi?
+                                    Quais as aplicações dos sistemas?
                                 </button>
                             </h3>
                             <div id="faq-content-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                                 <div class="accordion-body">
-                                    Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus
-                                    pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit.
-                                    Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis
-                                    tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                                    Os nossos sistemas são desenvolvidos de acordo com a necessidade do cliente, portanto, o sistema será desenvolvido para solucionar determinados problemas e demandas.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-4">
                                     <i class="bi bi-question-circle question-icon"></i>
-                                    Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla?
+                                    Quais os valores?
                                 </button>
                             </h3>
                             <div id="faq-content-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                                 <div class="accordion-body">
                                     <i class="bi bi-question-circle question-icon"></i>
-                                    Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum
-                                    velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend
-                                    donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in
-                                    cursus turpis massa tincidunt dui.
+                                    Como cada projeto tem suas particularidades, não trabalhamos com valores fixos, portanto, um orçamento será realizado após reunião com o cliente e equipe de desenvolvimento.
                                 </div>
                             </div>
                         </div>
 
                         <div class="accordion-item">
                             <h3 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#faq-content-5">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faq-content-5">
                                     <i class="bi bi-question-circle question-icon"></i>
-                                    Tempus quam pellentesque nec nam aliquam sem et tortor consequat?
+                                    Prazos?
                                 </button>
                             </h3>
                             <div id="faq-content-5" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                                 <div class="accordion-body">
-                                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in
-                                    est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl
-                                    suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
+                                    O prazo para o desenvolvimento de um projeto irá variar de acordo com seu tamanho e complexidade. Para todos os projetos, é elaborado um escopo detalhado para seu desenvolvimento. Vale lembrar que quando trabalhado com outras empresas, como por exemplo, de hospedagem, o prazo pode variar devido a comunicação com mais de uma parte.
                                 </div>
                             </div>
                         </div>

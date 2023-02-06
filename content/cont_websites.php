@@ -37,7 +37,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-12">
+                <div class="col-lg-8">
                     <h3>Desenvolvimento de Website Estruturado</h3>
                     <p>
                         A B&R oferece uma gama de serviços na área de tecnologia, entre eles, desenvolvimento de

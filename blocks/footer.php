@@ -34,9 +34,9 @@
             <div class="col-md-2 col-sm-4 col-xs-4">
                 <h5 class="heading">Serviços</h5>
                 <ul>
-                    <li><a href="<?php echo BASEURL ?>app/sobre_sistemas.php">Desenvolvimento de <br> Sistemas</a></li>
-                    <li><a href="<?php echo BASEURL ?>app/sobre_websites.php">Criação de Websites</a></li>
-                    <li><a href="<?php echo BASEURL ?>app/sobre_suporte.php">Suporte em TI</a></li>
+                    <li><a href="<?php echo BASEURL ?>app/politica_privacidade.php">Política de Privacidade</a></li>
+                    <li><a href="<?php echo BASEURL ?>pdf/B&R_Conduta_Etica.pdf" target="_blank">Código de Conduta</a></li>
+                    <li><a href="<?php echo BASEURL ?>pdf/B&R_Compliance.pdf" target="_blank">Programa de Compliance</a></li>
                 </ul>
             </div>
 
@@ -54,16 +54,8 @@
 
         <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-6">
-
                 <div class="pull-left">
                     <p><i class="fa fa-copyright"></i>Copyright 2023 - <a href="#">bertecnologia.com.br</a>|Todos os Direitos Reservados</p>
-                </div>
-            </div>
-
-
-            <div class="col-md-6 col-sm-6 col-xs-6">
-                <div class="pull-right mr-4 d-flex policy">
-                    <div><a href="<?php echo BASEURL ?>app/politica_privacidade.php">Política de Privacidade</a></div>
                 </div>
             </div>
         </div>

@@ -55,6 +55,14 @@
                         </div>
                     </div>
 
+                    <div class="info-item d-flex">
+                        <i class="bi bi-exclamation-triangle flex-shrink-0"></i>
+                        <div>
+                            <h4>Denúncias:</h4>
+                            <p>denuncia@engenhabr.com.br</p>
+                        </div>
+                    </div>
+
                 </div>
 
                 <div class="col-lg-8">
