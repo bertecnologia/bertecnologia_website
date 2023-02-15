@@ -46,7 +46,6 @@
     /* COOKIE POPUP STYLES */
 
     .cookie-popup {
-
         font-size: 0.875rem;
         display: flex;
         flex-wrap: wrap;
@@ -60,7 +59,7 @@
         line-height: 150%;
         transition: opacity .5s;
         opacity: 0;
-        border-radius: 10px
+        border-radius: 10px;
     }
 
     .cookie-popup--short {
@@ -121,6 +120,16 @@
 
         to {
             bottom: 1.25rem;
+        }
+    }
+
+    @media only screen and (max-width: 480px) {
+        .cookie-popup {
+            left: 2%;
+            right: 0;
+            border-radius: 10px;
+            margin-bottom: 25%;
+            width: 95%;
         }
     }
 </style>

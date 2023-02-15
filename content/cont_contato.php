@@ -66,7 +66,7 @@
                 </div>
 
                 <div class="col-lg-8">
-                    <form action="https://formsubmit.co/victormartinsgamer@gmail.com" method="post" role="form" class="php-email-form">
+                    <form action="https://formsubmit.co/contato@engenhabr.com.br" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="col-md-6 form-group">
                                 <input type="text" name="name" class="form-control" id="name" placeholder="Nome" required>
